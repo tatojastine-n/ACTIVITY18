@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CountdownTimer\bin\Debug\CountdownTimer.exe.config
+C:\Users\HP\source\repos\CountdownTimer\bin\Debug\CountdownTimer.exe
+C:\Users\HP\source\repos\CountdownTimer\bin\Debug\CountdownTimer.pdb
+C:\Users\HP\source\repos\CountdownTimer\obj\Debug\CountdownTimer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CountdownTimer\obj\Debug\CountdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CountdownTimer\obj\Debug\CountdownTimer.exe
+C:\Users\HP\source\repos\CountdownTimer\obj\Debug\CountdownTimer.pdb
